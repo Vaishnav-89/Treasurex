@@ -1,6 +1,6 @@
 # treasuex
 
-A new Flutter application.
+A Bidding E-commerce Flutter Mobile Application
 
 ## Getting Started
 
