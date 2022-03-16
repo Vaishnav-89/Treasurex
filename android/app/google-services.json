@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006526519564",
+    "project_id": "treasuex",
+    "storage_bucket": "treasuex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006526519564:android:57e0c8ccb6db3131be1129",
+        "android_client_info": {
+          "package_name": "com.example.treasuex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006526519564-bd6licalsmj3tgck4aujseuqj0osh688.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMZ90k2RrOYhIyrruhxx6889yjYqKN_4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006526519564-bd6licalsmj3tgck4aujseuqj0osh688.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
